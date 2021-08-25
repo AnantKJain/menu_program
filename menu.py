@@ -114,5 +114,5 @@ while True :
     os.system("sudo lvdisplay")
     time.sleep(5)
     
-  elif p==0:
+  elif i==0:
     break
